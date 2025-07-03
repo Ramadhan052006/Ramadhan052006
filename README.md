@@ -1,4 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Ramadhan</h1>
+<h3 align="center">Aspiring Cybersecurity Specialist & Web Developer</h3>
+
+---
+
+🔐 Passionate about **Cybersecurity**, **Linux**, and building secure web apps  
+🌱 Currently learning **HTML, CSS, JavaScript, Python**, and **ethical hacking**  
+🧠 Practicing on **TryHackMe**, **Hack The Box**, and building projects on GitHub  
+📫 Reach me via: [LinkedIn](https://www.linkedin.com) (update your link)  
+
+---
+
+### 🛠️ Tech Stack
+
+- 🔤 Languages: `HTML` | `CSS` | `JavaScript` | `Python` | `Bash`
+- ⚙️ Tools: `Linux` | `Git` | `VS Code` | `Wireshark` | `Burp Suite`
+- 🌐 Web: `Bootstrap` | `TailwindCSS` | `Node.js` *(coming soon)*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadRamadhan&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRamadhan&layout=compact&theme=radical" alt="top-langs" />
+</p>
+
+---
+
+### 🎯 Goals 2025
+
+- ✅ Kuasai dasar web development (HTML, CSS, JavaScript)
+- ✅ Belajar Python untuk scripting keamanan
+- 🚧 Selesaikan 50+ room di TryHackMe
+- 🚧 Buat 3+ project sederhana yang aman dan responsif
+
+---
+
+### 🤝 Let's Connect!
+
+- 🌍 Blog / Portfolio (coming soon)
+- 📷 Instagram: `@ra_mayla`
+  
+
+
 
 <!--
 **Ramadhan052006/Ramadhan052006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
