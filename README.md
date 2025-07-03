@@ -8,15 +8,6 @@
 
 ---
 
----
-
-### 🎯 Goals 2025
-
-- ✅ web development 
-- ✅ Belajar bahasa inggris
-
----
-
 ### 🤝 Let's Connect!
 
  <div align="left">
