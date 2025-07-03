@@ -6,8 +6,8 @@
 ### 🛠️ Tech Stack
 
 - 🔤 Languages: `HTML` | `CSS` | `JavaScript` | `PHP` | `Laravel`
-- ⚙️ Tools: `Git` | `VS Code` | `Wireshark` | `Burp Suite`
-- 🌐 Web: `Bootstrap` | `TailwindCSS` | `Node.js` *(coming soon)*
+- ⚙️ Tools: `Git` | `VS Code` 
+- 🌐 Web: `Bootstrap` | `TailwindCSS` | `Node.js` 
 
 ---
 
