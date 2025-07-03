@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ramadhan</h1>
-<h3 align="center">Aspiring Web Developer</h3>
 
 ---
 
