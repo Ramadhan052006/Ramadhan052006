@@ -15,7 +15,7 @@
 
 ### 🎯 Goals 2025
 
-- ✅ Kuasai dasar web development (HTML, CSS, JavaScript)
+- ✅ Kuasai dasar web development 
 - ✅ Belajar Python untuk scripting keamanan
 
 ---
