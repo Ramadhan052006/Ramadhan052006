@@ -4,7 +4,7 @@
 
 ### 🛠️ Tech Stack
 
-- 🔤 Languages: `HTML` | `CSS` | `JavaScript` | `PHP` | `Laravel`
+- 🔤 Languages: `HTML` | `CSS` | `JavaScript` | `PHP`| `PYTHON` | `TYPESCRIPT`
 - ⚙️ Tools: `Git` | `VS Code` 
 - 🌐 Web: `Bootstrap` | `TailwindCSS` 
 
