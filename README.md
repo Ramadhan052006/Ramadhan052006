@@ -7,7 +7,7 @@
 
 - 🔤 Languages: `HTML` | `CSS` | `JavaScript` | `PHP` | `Laravel`
 - ⚙️ Tools: `Git` | `VS Code` 
-- 🌐 Web: `Bootstrap` | `TailwindCSS` | `Node.js` 
+- 🌐 Web: `Bootstrap` | `TailwindCSS` 
 
 ---
 
@@ -15,7 +15,6 @@
 
 - ✅ Kuasai dasar web development (HTML, CSS, JavaScript)
 - ✅ Belajar Python untuk scripting keamanan
-- 🚧 Buat 3+ project sederhana yang aman dan responsif
 
 ---
 
