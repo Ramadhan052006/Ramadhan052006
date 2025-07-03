@@ -24,7 +24,6 @@
 
 - ✅ Kuasai dasar web development (HTML, CSS, JavaScript)
 - ✅ Belajar Python untuk scripting keamanan
-- 🚧 Selesaikan 50+ room di TryHackMe
 - 🚧 Buat 3+ project sederhana yang aman dan responsif
 
 ---
