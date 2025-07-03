@@ -3,13 +3,6 @@
 
 ---
 
-🔐 Passionate about **Cybersecurity**, **Linux**, and building secure web apps  
-🌱 Currently learning **HTML, CSS, JavaScript, Python**, and **ethical hacking**  
-🧠 Practicing on **TryHackMe**, **Hack The Box**, and building projects on GitHub  
-📫 Reach me via: [LinkedIn](https://www.linkedin.com) (update your link)  
-
----
-
 ### 🛠️ Tech Stack
 
 - 🔤 Languages: `HTML` | `CSS` | `JavaScript` | `Python` | `Bash`
