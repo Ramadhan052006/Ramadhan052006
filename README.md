@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ramadhan</h1>
-<h3 align="center">Aspiring Cybersecurity Specialist & Web Developer</h3>
+<h3 align="center">Aspiring Web Developer</h3>
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 🔤 Languages: `HTML` | `CSS` | `JavaScript` | `Python` | `Bash`
-- ⚙️ Tools: `Linux` | `Git` | `VS Code` | `Wireshark` | `Burp Suite`
+- 🔤 Languages: `HTML` | `CSS` | `JavaScript` | `PHP` | `Laravel`
+- ⚙️ Tools: `Git` | `VS Code` | `Wireshark` | `Burp Suite`
 - 🌐 Web: `Bootstrap` | `TailwindCSS` | `Node.js` *(coming soon)*
 
 ---
